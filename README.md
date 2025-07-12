@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is part of my own initiative to learn React.js for personal and professional use. Credit for this file goes to frontend-coder, I'm following along for my own learning.
+
 ## Available Scripts
 
 In the project directory, you can run:
